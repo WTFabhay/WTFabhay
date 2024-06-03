@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WTFabhay
 - 👀 I’m interested in ... development 
-- 🌱 I’m currently learning ... jweb development 
+- 🌱 I’m currently learning ... web development 
 - 💞️ I’m looking to collaborate on ... any web development project 
 - 📫 How to reach me ...just mail me 
 
